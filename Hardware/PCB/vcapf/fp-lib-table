@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name "vcapf")(type "KiCad")(uri "${KIPRJMOD}/vcapf.pretty")(options "")(descr ""))
 )

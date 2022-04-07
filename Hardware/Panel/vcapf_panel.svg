@@ -1244,11 +1244,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85"
-     inkscape:cx="607.64706"
-     inkscape:cy="491.76471"
+     inkscape:zoom="0.60104076"
+     inkscape:cx="108.97763"
+     inkscape:cy="414.28138"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="in"
      inkscape:window-width="1498"
@@ -1334,7 +1334,7 @@
        orientation="0,-1"
        id="guide3122" />
     <sodipodi:guide
-       position="2.9527559,4.4926977"
+       position="2.9527559,4.503937"
        orientation="0,-1"
        id="guide3124" />
     <sodipodi:guide
@@ -1378,7 +1378,7 @@
        orientation="0,-1"
        id="guide11308" />
     <sodipodi:guide
-       position="2.952751,6.0393669"
+       position="2.9527559,6.0787401"
        orientation="0,-1"
        id="guide11310" />
     <sodipodi:guide
@@ -1386,11 +1386,11 @@
        orientation="0,-1"
        id="guide11312" />
     <sodipodi:guide
-       position="2.9527855,4.4927273"
+       position="2.9527559,4.503937"
        orientation="0.70710678,-0.70710678"
        id="guide16634" />
     <sodipodi:guide
-       position="2.9527559,6.0393669"
+       position="2.9527559,6.0787401"
        orientation="-0.70710678,-0.70710678"
        id="guide16636" />
   </sodipodi:namedview>
@@ -3347,7 +3347,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:inline">
+     style="display:none">
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007859,2.2480381 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -3507,13 +3507,19 @@
        inkscape:connector-curvature="0"
        id="path2531"
        d="m 2.1496064,8.5472441 h 0.622047 V 9.1692916 H 2.3149604 L 2.1496064,9.0118113 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="8.8582706"
        cx="2.4606297"
        id="circle2533"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.2972441"
        cy="6.6072297"
@@ -3529,13 +3535,19 @@
        inkscape:connector-curvature="0"
        id="path3254"
        d="m 3.1338582,7.5630013 h 0.622047 V 8.1850488 H 3.2992122 L 3.1338582,8.0275685 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="7.8740282"
        cx="3.4448817"
        id="circle3256"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <rect
        style="display:inline;opacity:0.495;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6523"
@@ -3556,13 +3568,19 @@
        inkscape:connector-curvature="0"
        id="path19206"
        d="m 3.1338537,8.5472438 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="8.8582706"
        cx="3.4448769"
        id="circle19208"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        d="m -9.7106307,11.464567 h 1.0748033 v 1.094489 l -0.261811,-10e-7 8e-7,-0.11811 h -0.5511811 v 0.11811 l -0.261812,10e-7 z"
@@ -3696,16 +3714,25 @@
        inkscape:connector-curvature="0"
        id="path4309"
        d="m 2.1496062,7.5630013 h 0.622047 V 8.1850488 H 2.3149602 L 2.1496062,8.0275685 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="7.8740282"
        cx="2.4606297"
        id="circle4312"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
-       transform="translate(8.858293,0.94034411)"
-       id="g4468">
+       transform="translate(8.8582634,0.92913442)"
+       id="g4468"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          cy="5.5669289"
          cx="-5.9055119"
@@ -3720,8 +3747,11 @@
          r="0.17716536" />
     </g>
     <g
-       transform="translate(8.8582629,-0.60629573)"
-       id="g5720">
+       transform="translate(8.8582633,-0.64566866)"
+       id="g5720"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          cy="5.5669289"
          cx="-5.9055119"
@@ -3737,7 +3767,10 @@
     </g>
     <g
        transform="translate(8.8582635,-2.417322)"
-       id="g7512">
+       id="g7512"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          cy="5.5669289"
          cx="-5.9055119"
@@ -3766,14 +3799,14 @@
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0104167"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.14855px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.25521e-06;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.993004;-inkscape-stroke:hairline"
        x="3.3139846"
        y="8.6573839"
        id="text36721"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
        transform="scale(0.89129452,1.1219636)"><tspan
@@ -3790,7 +3823,7 @@
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png" />
     <path
        sodipodi:nodetypes="cc"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3799,7 +3832,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png" />
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot3370"
@@ -3826,7 +3859,7 @@
        x="2.9494803"
        y="2.232954"
        id="text3657"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
@@ -5541,42 +5574,42 @@
          y="8.3464575"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">LFO IN</tspan></text>
     <circle
-       cy="6.5072727"
-       cx="2.9527855"
+       cy="6.4960632"
+       cx="2.9527559"
        id="circle4470"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536" />
     <text
        id="text4474"
-       y="7.1653547"
-       x="2.9527559"
+       y="7.1541452"
+       x="2.9527264"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="7.1653547"
-         x="2.9527559"
+         y="7.1541452"
+         x="2.9527264"
          id="tspan4472"
          sodipodi:role="line">LFO LEVEL</tspan></text>
     <circle
-       cy="4.9606328"
-       cx="2.9527555"
+       cy="4.9212599"
+       cx="2.9527559"
        id="circle5722"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536" />
     <text
        id="text5726"
-       y="5.6187148"
-       x="2.9527259"
+       y="5.5793419"
+       x="2.9527264"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="5.6187148"
-         x="2.9527259"
+         y="5.5793419"
+         x="2.9527264"
          id="tspan5724"
          sodipodi:role="line">FREQUENCY </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="5.813159"
-         x="2.9527259"
+         y="5.7737861"
+         x="2.9527264"
          sodipodi:role="line"
          id="tspan18159">CV LEVEL</tspan></text>
     <circle
@@ -5601,12 +5634,12 @@
        transform="matrix(-1,0,0,1,5.905509,0)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 2.9527531,4.9606331 -0.4921213,0.4921213 -1.1e-6,2.421264"
+         d="m 2.9527531,4.9212599 -0.4921213,0.4921213 -1.1e-6,2.4606372"
          id="path16671"
          sodipodi:nodetypes="ccc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 2.9527531,6.5073023 0.492126,0.492126 -8e-7,0.8745901"
+         d="m 2.9527531,6.496063 0.492126,0.492126 v 0.8858268"
          id="path16673"
          sodipodi:nodetypes="ccc" />
     </g>
@@ -5852,25 +5885,25 @@
        cx="2.4606309"
        cy="8.8582735"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606269,8.7598481 V 8.9566986"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590519,8.8582733 h -0.19685"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g2461"
        style="display:inline"
@@ -5942,25 +5975,25 @@
        cx="3.4448814"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448773,8.7598526 V 8.9567031"
        id="path3292"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,8.8582778 h -0.19685"
        id="path3294"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g6665"
        transform="translate(3.5433079,5.0433001)"
@@ -6055,9 +6088,9 @@
     <g
        id="g2598"
        transform="translate(0.00787418)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0"
@@ -6084,9 +6117,9 @@
        id="g2598-9"
        transform="translate(-1.6141731)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-6"
@@ -6113,9 +6146,9 @@
        id="g2598-0"
        transform="translate(0.00787418,7.6377954)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-3"
@@ -6142,9 +6175,9 @@
        id="g2598-4"
        transform="translate(-1.6141731,7.6377951)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-4"
@@ -6241,25 +6274,25 @@
        cx="3.4448814"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4448773,7.7756011 v 0.19685"
        id="path19218"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,7.8740261 h -0.19685"
        id="path19220"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g3455-5"
        style="display:inline"
@@ -6402,29 +6435,32 @@
        cx="2.4606295"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606253,7.7756011 v 0.19685"
        id="path4322"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,7.8740261 h -0.19685"
        id="path4324"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g4482"
        style="display:inline"
-       transform="translate(9.842548,1.3891544)">
+       transform="translate(9.8425184,1.3779447)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6445,7 +6481,10 @@
     <g
        id="g5734"
        style="display:inline"
-       transform="translate(9.8425179,-0.15747758)">
+       transform="translate(9.8425183,-0.19685051)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6466,7 +6505,10 @@
     <g
        id="g7526"
        style="display:inline"
-       transform="translate(9.8425145,-1.9685104)">
+       transform="translate(9.8425145,-1.9685104)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/All pass filter/Images/vcapf_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7505,7 +7547,7 @@
     </g>
     <g
        id="g4492"
-       transform="matrix(-0.72831063,0,0,0.72831063,4.674738,1.3590098)"
+       transform="matrix(-0.72831063,0,0,0.72831063,4.6747084,1.3478001)"
        style="display:inline">
       <circle
          r="0.61374104"
@@ -7532,7 +7574,7 @@
     </g>
     <g
        id="g5744"
-       transform="matrix(-0.72831063,0,0,0.72831063,4.6747079,-0.18763003)"
+       transform="matrix(-0.72831063,0,0,0.72831063,4.6747083,-0.22700296)"
        style="display:inline">
       <circle
          r="0.61374104"
