@@ -2336,10 +2336,10 @@
       (reference "J7") (unit 1) (value "AudioJack2") (footprint "ao_tht:Jack_6.35mm_PJ_629HAN_slots")
     )
     (path "/6485fd18-b27b-4a0a-a21a-f7bc14060add/f99e66b2-d7af-48f3-9906-9384faa7cf65"
-      (reference "Q1") (unit 1) (value "2N3906") (footprint "ao_tht:TO-92_Inline_Wide")
+      (reference "Q1") (unit 1) (value "2N3906 matched") (footprint "ao_tht:TO-92_Inline_Wide")
     )
     (path "/6485fd18-b27b-4a0a-a21a-f7bc14060add/fc44eb84-e61f-4588-ad64-ace1d385598d"
-      (reference "Q2") (unit 1) (value "2N3906") (footprint "ao_tht:TO-92_Inline_Wide")
+      (reference "Q2") (unit 1) (value "2N3906 matched") (footprint "ao_tht:TO-92_Inline_Wide")
     )
     (path "/6485fd18-b27b-4a0a-a21a-f7bc14060add/56acf0ac-feef-43ed-b312-7c268337551e"
       (reference "R1") (unit 1) (value "100k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
