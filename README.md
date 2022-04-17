@@ -6,17 +6,15 @@ This is a work in progress; better README to come soon. Meanwhile:
 
 This is an all pass filter (APF) intended to transform LFO wave shapes.
 
-An all pass filter, as the name suggests, passes sine waves of any frequency with no change in amplitude. What does change is the phase angle, the relationship between the zero crossings (or peaks) of the input signal and those of the output. The phase change depends on the frequency.
+An all pass filter, as the name suggests, passes sine waves of any frequency with no change in amplitude. What does change is the phase angle, the relationship between the zero crossings (or peaks) of the input signal and those of the output. The phase shift depends on the frequency. A single pole APF produces a phase shift varying from 0° at low frequency to -90º at the corner frequency to -180° at high frequency. A two pole APF gives a phase shift from 0° at low frequency to -180º at the corner frequency to -360° at high frequency — the latter half of which is the same as +180° to 0°:
+
+![1 pole and 2 pole APF phase shifts](Images/1 pole and 2 pole APF phase shifts.png)
 
 Putting a non sine periodic wave through an APF changes the wave's shape, since the different harmonics undergo different phase changes; the peak to peak amplitude can change as well, but usually not by a lot. Since the human ear isn't very sensitive to harmonic phases, this doesn't do much of anything interesting to audio waves. But it can produce interesting variants of low frequency CV waveshapes.
 
 This module provides single pole and two pole APF outputs. It has input jacks for an LFO signal and a ±5 V corner frequency control voltage. There are attenuator pots for both inputs, and a knob to set the initial corner frequency.
 
-The single pole APF has phase shift 0° at low frequency to -90º at the corner frequency to -180° at high frequency. The two pole APF has phase shift 0° at low frequency to -180º at the corner frequency to -360° at high frequency.
-
-![1 pole and 2 pole APF phase shifts](Images/1 pole and 2 pole APF phase shifts.png)
-
-Simulation results of applying 1- and 2-pole APF to triangle, ramp, and square waves are shown below:
+Simulation results of applying 1- and 2-pole APF with various corner frequencies to triangle, ramp, and square waves are shown below:
 
 ![](Images/apf_tri_1.png)
 ![](Images/apf_tri_2.png)
