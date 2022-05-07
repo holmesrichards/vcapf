@@ -56,6 +56,7 @@ one or the other of which probably could be used to assemble this PCB with a SOI
 * PCB layout: [front](Docs/vcapf_layout_front.pdf), [back](Docs/vcapf_layout_back.pdf)
 * [BOM](Docs/vcapf_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2022/05/07/voltage-controlled-all-pass-filter/)
 
 ## GitHub repository
 
