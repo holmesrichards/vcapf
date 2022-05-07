@@ -59,7 +59,7 @@ one or the other of which probably could be used to assemble this PCB with a SOI
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/](https://github.com/holmesrichards/vcapf)
+* [https://github.com/holmesrichards/vcapf](https://github.com/holmesrichards/vcapf)
 
 ## Submodules
 
