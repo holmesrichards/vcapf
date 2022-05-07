@@ -6,7 +6,7 @@ This is an all pass filter (APF) intended to transform LFO wave shapes.
 
 An all pass filter, as the name suggests, passes sine waves of any frequency with no change in amplitude. What does change is the phase angle, the relationship between the zero crossings (or peaks) of the input signal and those of the output. The phase shift depends on the frequency. A single pole APF produces a phase shift varying from 0° at low frequency to -90º at the corner frequency to -180° at high frequency. A two pole APF gives a phase shift from 0° at low frequency to -180º at the corner frequency to -360° at high frequency — the latter half of which is the same as +180° to 0°:
 
-![1 pole and 2 pole APF phase shifts](Images/1 pole and 2 pole APF phase shifts.png)
+![1 pole and 2 pole APF phase shifts](Images/1_pole_and_2_pole_APF_phase_shifts.png)
 
 Putting a non sine periodic wave through an APF changes the wave's shape, since the different harmonics undergo different phase changes; the peak to peak amplitude can change as well, but usually not by a lot. Since the human ear isn't very sensitive to harmonic phases, this doesn't do much of anything interesting to audio waves. But it can produce interesting variants of low frequency CV waveshapes.
 
