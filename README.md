@@ -1,6 +1,6 @@
 # Voltage controlled all pass filter
 
-***Note**: At this point the main PCB has been tested and found to be satisfactory, but the first run jacks PCB had errors. They have been corrected in the design and Gerber files but the corrected board has not been tested. But what are the chances I'd get something so simple wrong twice? Shut up, it was a rhetorical question.*
+***Note**: At this point the main PCB has been tested and found to be satisfactory, but the first run jacks PCB had errors. They have been corrected [twice] in the design and Gerber files but the [re]corrected board has not been tested. But what are the chances I'd get something so simple wrong ~~twice~~ three times? Shut up, it was a rhetorical question.*
 
 This is an all pass filter (APF) intended to transform LFO wave shapes.
 
